@@ -1,0 +1,8 @@
+#Build Files
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+
+#Visual Studio Files
+.vs/
+*.obj
